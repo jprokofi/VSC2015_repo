@@ -1,1 +1,3 @@
 Visual Studio text to be source-controlled!
+
+some added changes
